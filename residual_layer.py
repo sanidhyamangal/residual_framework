@@ -1,3 +1,7 @@
+"""
+author:Sanidhya Mangal
+github: sanidhyamangal
+"""
 from typing import Tuple  # for the typing
 import tensorflow as tf  # for deep learning
 from typing import List  # for typings
