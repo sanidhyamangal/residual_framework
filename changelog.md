@@ -4,3 +4,7 @@
 
 ### 2020-12-29
 - added: a new basic block for resnet
+
+### 2020-12-30
+- removed: unused files
+- reformatted files
