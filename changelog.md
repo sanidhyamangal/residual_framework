@@ -8,3 +8,6 @@
 ### 2020-12-30
 - removed: unused files
 - reformatted files
+
+### 2021-01-01
+- added: bottleneck based models for the resnet architecture
